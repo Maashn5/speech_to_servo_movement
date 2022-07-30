@@ -300,7 +300,7 @@ if(thetaString=="right"){
 
 }
 ```
-<br/> ## Tips when using it 
+## Tips when using it 
 * Not all browser support the web api so I suggest to use chrome browser lastest version  
 * first press the start button then talk & make sure the word you have said is the same as the written one
 * Then press the send button then choose the port you wanna communicate with
